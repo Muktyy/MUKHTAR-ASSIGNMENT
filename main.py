@@ -5,7 +5,7 @@ business_name = """
   |_| |___|___|___|_|    |__,|_|_|___|  |_____|___|_|_|___|
                                                            """
 
-print(f"\nBusiness Name: {business_name}")
+print(business_name)
 principal = float(input("Enter the initial principal amount: "))
 rate = float(input("Enter the interest rate (as a decimal): "))
 time = int(input("Enter the number of time periods elapsed: "))
