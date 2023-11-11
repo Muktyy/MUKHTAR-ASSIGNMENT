@@ -1,4 +1,3 @@
-
 business_name = "Yusuf & Sons"
 principal = float(input("Enter the initial principal amount: "))
 rate = float(input("Enter the interest rate (as a decimal): "))
